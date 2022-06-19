@@ -1,0 +1,5 @@
+export { default as Home } from './Home'
+export { default as Messages } from './Messages'
+export { default as Album } from './Album'
+export { default as Form } from './Form'
+export { default as Lyrics } from './Lyrics'

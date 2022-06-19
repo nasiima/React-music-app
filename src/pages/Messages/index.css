@@ -1,0 +1,53 @@
+.title {
+    color: black;
+    font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.message{
+    padding: 80px;
+    margin-top: 20px;
+}
+
+.container {
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+ 
+
+
+}
+
+ h3 {
+    padding: 15px;
+    font-size: 20px;
+    line-height: 1.25em;
+    height: auto;
+    /* font-family: 'Nunito', sans-serif; */
+    color: black;
+
+} 
+
+h2 {
+    color: black;
+  font-weight: 900;
+  font-size: 30px;
+
+
+}
+
+
+.cardBody {
+    width: 80%;
+    height: auto;
+    padding: 30px;
+    padding-bottom: 10px;
+    margin: 40px;
+    overflow: auto;
+    border-radius: 0.25rem;
+    background-color: rgb(202, 178, 224);
+  }

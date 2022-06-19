@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+
+.body {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+
+.img  {
+  border-radius: 4px;
+  width: 180px;
+}
+
+
+.h2 {
+    font-family: 'Fascinate', cursive;
+    text-align: center;
+    font-size: 400%;
+    padding-bottom: 5%;
+}
+
+
+.table {
+    text-align: center;
+}
+
+
+.song {
+    text-align: center;
+}
+
+
+.releaseDate {
+    padding: 10%;
+    text-align: center;
+}
+
+
+.heart {
+  background-color: rgba(102, 0, 255, 0.948);
+  padding-right: 100%;
+  padding: 10%;
+}
